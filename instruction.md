@@ -1,3 +1,10 @@
+# Markdown #
+
+![Picture_markdown](markdown.jpg)
+
+## Adding pictures ##
+Чтобы добавить картинку нужно написать в файле **![описание картинки](название файла . расширение)**
+
 # Git #
 
 ![Picture_git](git.jpg)
