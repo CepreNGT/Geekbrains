@@ -36,3 +36,6 @@ git add file.txt - добавить определенный файл
 ## Merge conflict ##
 В случае, если одни и те же данные были изменены по-разному в разных ветках, возникает конфликт.
 ![conflict_picture](gitconglict.png)
+
+## git branch -d branch_name ##
+Если ветка branch_name больше не нужна, ее можно удалить данной командой
