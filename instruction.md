@@ -32,3 +32,7 @@ git add file.txt - добавить определенный файл
 
 ## git branch brach_name ##
 Создать новую ветку из текущего коммита с именем branch name
+
+## Merge conflict ##
+В случае, если одни и те же данные были изменены по-разному в разных ветках, возникает конфликт.
+![conflict_picture](gitconglict.png)
