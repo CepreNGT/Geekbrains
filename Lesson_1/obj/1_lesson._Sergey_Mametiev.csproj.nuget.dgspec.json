@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\1_lesson._Sergey_Mametiev.csproj": {}
+    "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\Lesson_1\\1_lesson._Sergey_Mametiev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\1_lesson._Sergey_Mametiev.csproj": {
+    "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\Lesson_1\\1_lesson._Sergey_Mametiev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\1_lesson._Sergey_Mametiev.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\Lesson_1\\1_lesson._Sergey_Mametiev.csproj",
         "projectName": "1_lesson._Sergey_Mametiev",
-        "projectPath": "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\1_lesson._Sergey_Mametiev.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\Lesson_1\\1_lesson._Sergey_Mametiev.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Projects\\1_lesson._Sergey_Mametiev\\Lesson_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
