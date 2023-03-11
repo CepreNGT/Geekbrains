@@ -1,6 +1,4 @@
-﻿using System;
-
-/* Task 19 */
+﻿/* Task 19 */
 int number = int.Parse(Console.ReadLine());
 if (number < 10000 | number > 99999) {
     Console.Write($"Число {number} не пятизначное!" + Environment.NewLine);

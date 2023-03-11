@@ -1,6 +1,4 @@
-﻿using System;
-
-void array_init (int[] array, int length, int a, int b) {
+﻿void array_init (int[] array, int length, int a, int b) {
     for (int i = 0; i < length; i++) {
         array[i] = new Random().Next(a, b);
     }

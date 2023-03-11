@@ -1,6 +1,4 @@
-﻿using System;
-
-/* 25 */
+﻿/* 25 */
 int A = int.Parse(Console.ReadLine());
 int B = int.Parse(Console.ReadLine());
 int result = 1;

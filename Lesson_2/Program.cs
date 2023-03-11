@@ -1,6 +1,4 @@
-﻿using System;
-
-/* Task 10 */
+﻿/* Task 10 */
 int num1 = int.Parse(Console.ReadLine());
 if (num1 > 99 & num1 < 1000) {
     Console.Write((num1 / 10) % 10 + Environment.NewLine);

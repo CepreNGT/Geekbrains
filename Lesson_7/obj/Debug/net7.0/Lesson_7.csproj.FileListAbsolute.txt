@@ -1,0 +1,15 @@
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.csproj.AssemblyReference.cache
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.AssemblyInfoInputs.cache
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.AssemblyInfo.cs
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\bin\Debug\net7.0\Lesson_7.exe
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\bin\Debug\net7.0\Lesson_7.deps.json
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\bin\Debug\net7.0\Lesson_7.runtimeconfig.json
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\bin\Debug\net7.0\Lesson_7.dll
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\bin\Debug\net7.0\Lesson_7.pdb
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.dll
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\refint\Lesson_7.dll
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.pdb
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\Lesson_7.genruntimeconfig.cache
+C:\Users\ASUS\Projects\1_lesson._Sergey_Mametiev\Lesson_7\obj\Debug\net7.0\ref\Lesson_7.dll
